@@ -21,15 +21,15 @@ How to use this simulation code package?
 
 This folder contains codes for channel estimation executed in Python.
 
-Channel data generation:  Use the script data_generate12.m from the archive tex8_mat.zip to generate near-field channel data.
-channel data generation executed in MATLAB and
-
-Channel estimation: Use the script main_cGAN83.py from the archive tex83_CGAN_IE.zip to train and test the proposed method based on the GAN variant.
+Channel data generation:  Channel data generation is performed in MATLAB, and the accompanying archive data.zip contains both the raw channel data and the Least Squares (LS) channel estimates.
+ 
+Channel estimation: Use the script main_cGAN521.py from the archive tex5_cGAN52.zip to train and test the proposed method based on the GAN variant.
 
  
-
+[tex5_cGAN52.zip](https://github.com/user-attachments/files/23262987/tex5_cGAN52.zip)    
 
 *********************************************************************************************************************************
 It is noted that there may be some differences in the results of different training processes. 
 
 Enjoy the reproducible research!
+
