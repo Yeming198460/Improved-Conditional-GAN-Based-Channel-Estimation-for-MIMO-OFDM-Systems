@@ -23,7 +23,7 @@ This folder contains codes for channel estimation executed in Python.
 
 Channel data generation:  Channel data generation is performed in MATLAB, and the accompanying archive data.zip contains both the raw channel data and the Least Squares (LS) channel estimates.
  
-Channel estimation: Use the script main_cGAN521.py from the archive tex5_cGAN52.zip to train and test the proposed method based on the GAN variant.
+Channel estimation: Use the script main_cGAN521.py from the archive tex5_cGAN52.zip to train and test the proposed improved cGAN.
 
  
 [tex5_cGAN52.zip](https://github.com/user-attachments/files/23262987/tex5_cGAN52.zip)    
